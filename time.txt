@@ -34,3 +34,11 @@
 13th: 8h of life-travel # packing
 
 14th: 1h of nilenso-pm
+
+15th: 16h of life-travel # fly to dharamshala
+
+16th: 8h of life-setup # basics in dharamkot
+
+17th: 4h of life-setup, 1h of pariyatti, 1h of life-email  # wandering, groceries, common grounds
+
+18th: 1h of nilenso-writing
