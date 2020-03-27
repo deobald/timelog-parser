@@ -17,7 +17,7 @@
 
 5th: clean neena's house
 
-6th: 2h of hackervillage, 6h of nilenso-writing
+6th: 2h of village-hacker, 6h of nilenso-writing
 
 7th: 4h of nilenso-writing, 2h of life-planning
 
@@ -56,4 +56,14 @@
 24th: 16h of life-setup # house
 
 25th: 3h of life-setup, 6h of nilenso-writing
+
+== Mar 2020
+
+17th: 8h of life   # start this covid-19 lockdown business
+
+25th: 2h of nilenso-writing, 6h of pariyatti # nilenso kickoff
+
+26th: 4h of nilenso-writing, 4h of pariyatti # govind interview
+
+27th: 4h of reading, 3h of pariyatti # varun interview
 
