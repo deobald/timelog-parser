@@ -115,5 +115,5 @@
 
 15th: 4h of juxt, 4h of pariyatti-dev
 16th: 8h of pariyatti-dev
-17th: 5h of juxt
+17th: 6h of juxt, 5h of pariyatti-dev
 
