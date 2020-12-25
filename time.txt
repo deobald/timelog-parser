@@ -120,4 +120,5 @@
 21st: 8h of pariyatti-dev
 22nd: 8h of pariyatti-dev
 23rd: 8h of juxt
+24th: 3h of pariyatti-dev
 
