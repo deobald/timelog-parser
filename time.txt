@@ -3,5 +3,8 @@
 1st: 8h of juxt
 2nd: 8h of juxt
 3rd: 6h of juxt
-4th: 10h of juxt (at noon)
+4th: 10h of juxt 
 5th: 6h of juxt, 2h of pariyatti
+6th: 5h of juxt, 3h of pariyatti
+7th: 3h of juxt, 5h of pariyatti
+8th: 2h of pariyatti, 5h of juxt
