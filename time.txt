@@ -7,4 +7,5 @@
 5th: 6h of juxt, 2h of pariyatti
 6th: 5h of juxt, 3h of pariyatti
 7th: 3h of juxt, 5h of pariyatti
-8th: 2h of pariyatti, 5h of juxt
+8th: 2h of pariyatti, 3h of juxt
+ 
