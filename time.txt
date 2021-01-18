@@ -3,9 +3,18 @@
 1st: 8h of juxt
 2nd: 8h of juxt
 3rd: 6h of juxt
-4th: 10h of juxt 
+4th: 10h of juxt
 5th: 6h of juxt, 2h of pariyatti
 6th: 5h of juxt, 3h of pariyatti
 7th: 3h of juxt, 5h of pariyatti
 8th: 2h of pariyatti, 3h of juxt
- 
+9th: 5h of juxt
+10th: 8h of 4440-ron
+11th: 12h of 4440-ron
+12th: 12h of 4440-ron
+13th: 18h of 4440-ron
+14th: 18h of 4440-ron
+15th: 18h of 4440-ron
+16th: 18h of 4440-ron
+17th: 4h of 4440-ron
+18th: 8h of 4440-ron, 3h of juxt
