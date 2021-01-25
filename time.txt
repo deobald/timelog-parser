@@ -18,3 +18,9 @@
 16th: 18h of 4440-ron
 17th: 4h of 4440-ron
 18th: 8h of 4440-ron, 3h of juxt
+19th: 2h of 4440-ron, 6h of juxt
+20th: 5h of pariyatti, 3h of juxt
+21st: 8h of juxt, 1h of pariyatti
+22nd: 2h of cdl, 4h of juxt
+23rd: 5h of juxt, 1h of pariyatti, 1h of pariyatti-hanlon-mentor
+24th: 2h of juxt, 5h of pariyatti
