@@ -25,4 +25,8 @@
 23rd: 5h of juxt, 1h of pariyatti, 1h of pariyatti-hanlon-mentor
 24th: 2h of juxt, 5h of pariyatti
 25th: 7h of juxt-marketing, 2h of pariyatti
+26th: 2h of juxt-getting-hired
+27th: 5h of juxt-marketing, 2h of pariyatti
+28th: 3h of juxt-marketing, 8h of pariyatti
+29th: 3h of pariyatti, 6h of juxt-marketing-kanban
 
