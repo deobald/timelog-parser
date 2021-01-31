@@ -29,4 +29,5 @@
 27th: 5h of juxt-marketing, 2h of pariyatti
 28th: 3h of juxt-marketing, 8h of pariyatti
 29th: 3h of pariyatti, 6h of juxt-marketing-kanban
+30th: 11h of pariyatti
 
