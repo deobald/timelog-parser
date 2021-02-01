@@ -30,4 +30,9 @@
 28th: 3h of juxt-marketing, 8h of pariyatti
 29th: 3h of pariyatti, 6h of juxt-marketing-kanban
 30th: 11h of pariyatti
+31st: === Sunday! ===
+
+== Feb 2021
+
+1st: 1h of juxt-standup
 
